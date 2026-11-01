@@ -1,0 +1,6 @@
+{
+  "name": "Student Task Manager – To-Do List Web Application",
+  "description": "A responsive to-do list and academic task manager built for college students to organize assignments, homework, and project deadlines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
